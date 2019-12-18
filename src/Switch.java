@@ -8,7 +8,7 @@ public class Switch {
         a=get.nextInt();
         System.out.print("Enter B");
         b=get.nextInt();
-        System.out.print("1.add     ");
+        System.out.print("1.Add     ");
         System.out.print("2.Sub     ");
         System.out.print("3.Mul     ");
         System.out.print("4.div     ");
